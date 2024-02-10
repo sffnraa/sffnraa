@@ -30,11 +30,10 @@
 </ul>
 
 <p>Pada saat program ini dijalankan maka akan memunculkan daftar data barang-barang yang dijual (meliputi nama barang, kode barang, stok barang, dan harga barang)</p>
-<ul>
-  <p>Para pelanggan dapat membeli barang yang dituju dengan menginputkan kode barang tersebut. Lalu apabila total pembayaran melebihi Rp 25000 maka pelanggan akan mendapatkan diskon sebesar 10% </p>
-  <p>Antrian pelanggan akan terus berjalan hingga pelanggan tersebut menyelesaikan transaksinya dan menampilkan struk pembelajaan tersebut.</p>
-  <p>Pada saat semua pelanggan telah selesai, maka program akan menampilkan daftar transaksi yang berisikan daftar nama dan jumlah barang yang sudah keluar.</p>
-</ul>
+<p>Para pelanggan dapat membeli barang yang dituju dengan menginputkan kode barang tersebut. Lalu apabila total pembayaran melebihi Rp 25000 maka pelanggan akan mendapatkan diskon sebesar 10% </p>
+<p>Antrian pelanggan akan terus berjalan hingga pelanggan tersebut menyelesaikan transaksinya dan menampilkan struk pembelajaan tersebut.</p>
+<p>Pada saat semua pelanggan telah selesai, maka program akan menampilkan daftar transaksi yang berisikan daftar nama dan jumlah barang yang sudah keluar.</p>
+
 
 ## Komponen Proyek
 <p>Komponen komponen yang kami gunakan sebagai berikut :</p>
